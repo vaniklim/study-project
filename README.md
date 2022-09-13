@@ -1,1 +1,1 @@
-# study-project
+https://vaniklim.github.io/study-project/
